@@ -68,7 +68,7 @@ header {
 @media(max-width: 1142px){
 .menu__item::before{
     content: "";
-    background-image: url(img/premium-icon-docs-1982526.png);
+    background-image: url(../img/premium-icon-docs-1982526.png);
     background-size: cover;
     height: 30px;
     width: 30px;
