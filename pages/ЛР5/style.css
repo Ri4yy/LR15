@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+.first{
+    position: inherit;
+    background: linear-gradient(red, blue);
+}
+.second{
+    background: linear-gradient(to bottom right, #caf25a,#96c416);
+}
+.three{
+    background: linear-gradient(180deg, rgba(228,126,8,1) 3%, rgba(10,224,24,1) 33%, rgba(215,240,10,1) 63%, rgba(152,14,237,1) 95%);
+}
+.four{
+    background: radial-gradient(at right, red, orangered, yellow);
+}
+.five{
+    background: linear-gradient(170deg, rgb(22, 128, 21), rgb(25, 39, 216) 28%, rgb(59, 56, 240));
+}
+.img{
+    width: 10%;
+    height: 10%;
+    padding: 0 0 0 20px;
+}
+.img1{
+    width: 10%;
+    height: 10%;
+    transform: scale(-1,1);
+}
+.img2{
+    width: 10%;
+    height: 10%;
+    transform: rotate(90deg)
+}
+.img3{
+    width: 5%;
+    height: 5%;
+    padding: 0 0 2% 50px;
+}
+.img4{
+    width: 10%;
+    height: 10%;
+    padding: 0 0 0 240px;
+}
+.img5{
+    width: 10%;
+    height: 10%;
+    transform: skew(20deg);
+}
